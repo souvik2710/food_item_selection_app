@@ -1,0 +1,107 @@
+[
+  {
+    "recipe_name": "Paneer Butter Masala",
+    "id": 1,
+    "nutrition": {
+      "kcal": 450,
+      "grams": 300,
+      "protein": 15,
+      "fats": 25,
+      "carbs": 40
+    },
+    "price": 8.99,
+    "description": "A creamy and mildly spiced curry made with paneer (Indian cottage cheese) and butter. Rich and satisfying with a hint of sweetness.",
+    "image_url": "https://myfoodstory.com/wp-content/uploads/2021/07/restaurant-style-paneer-butter-masala-2.jpg",
+    "hits_of_the_week": true
+  },
+  {
+    "recipe_name": "Chicken Biryani",
+    "id": 2,
+    "nutrition": {
+      "kcal": 650,
+      "grams": 400,
+      "protein": 30,
+      "fats": 20,
+      "carbs": 80
+    },
+    "price": 12.50,
+    "description": "A fragrant and flavorful rice dish cooked with tender pieces of chicken, aromatic spices, and herbs. A classic Indian favorite.",
+    "image_url": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg",
+    "hits_of_the_week": true
+  },
+  {
+    "recipe_name": "Masoor Dal Tadka",
+    "id": 3,
+    "nutrition": {
+      "kcal": 300,
+      "grams": 350,
+      "protein": 12,
+      "fats": 8,
+      "carbs": 45
+    },
+    "price": 5.50,
+    "description": "A comforting lentil curry made with red lentils and a spicy tempering of garlic, cumin, and chilies. Simple, nutritious, and delicious.",
+    "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/dal-tadka-recipe.jpg",
+    "hits_of_the_week": false
+  },
+  {
+    "recipe_name": "Aloo Paratha",
+    "id": 4,
+    "nutrition": {
+      "kcal": 350,
+      "grams": 250,
+      "protein": 8,
+      "fats": 15,
+      "carbs": 45
+    },
+    "price": 4.99,
+    "description": "A soft and flaky Indian flatbread stuffed with spiced mashed potatoes. Perfect for breakfast or a light meal.",
+    "image_url": "https://images.unsplash.com/photo-1683533743190-89c9b19f9ea6?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFsb28lMjBwYXJhdGhhfGVufDB8fDB8fHww",
+    "hits_of_the_week": true
+  },
+  {
+    "recipe_name": "Palak Paneer",
+    "id": 5,
+    "nutrition": {
+      "kcal": 400,
+      "grams": 300,
+      "protein": 18,
+      "fats": 20,
+      "carbs": 30
+    },
+    "price": 9.50,
+    "description": "A creamy, spiced spinach curry with cubes of paneer. Nutritious and packed with flavor, it's a popular vegetarian dish.",
+    "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/palak-paneer-recipe.jpg",
+    "hits_of_the_week": true
+  },
+  {
+    "recipe_name": "Mutton Rogan Josh",
+    "id": 6,
+    "nutrition": {
+      "kcal": 550,
+      "grams": 350,
+      "protein": 28,
+      "fats": 30,
+      "carbs": 20
+    },
+    "price": 14.99,
+    "description": "A rich, aromatic curry made with tender mutton slow-cooked in spices and yogurt. Known for its vibrant red color and deep flavors.",
+    "image_url": "https://static.toiimg.com/thumb/53192600.cms?imgsize=418831&width=800&height=800",
+    "hits_of_the_week": false
+  },
+  {
+    "recipe_name": "Chole Bhature",
+    "id": 7,
+    "nutrition": {
+      "kcal": 600,
+      "grams": 400,
+      "protein": 20,
+      "fats": 25,
+      "carbs": 70
+    },
+    "price": 7.50,
+    "description": "A hearty dish of spicy chickpea curry served with deep-fried, fluffy bread (bhature). Popular for its bold flavors and satisfying texture.",
+    "image_url": "https://en-media.thebetterindia.com/uploads/2022/08/294156779_1082267416022212_8006411537588067133_n-1_11zon-1660981126.jpg",
+    "hits_of_the_week": false
+  }
+]
