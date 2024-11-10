@@ -88,7 +88,7 @@ lib/
 ## Demo
 
 A video demo showcasing the app in action can be found here:  
-[Google Drive Video Link](https://github.com/souvik2710/food_item_selection_app)
+[Google Drive Video Link](https://drive.google.com/file/d/1nsDeBuYA4ogZBb2X-c4hOO7srCwsU3_1/view?usp=sharing)
 
 ## GitHub Repository
 You can access the source code here:  
